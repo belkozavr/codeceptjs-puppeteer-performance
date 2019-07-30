@@ -1,0 +1,6 @@
+node_modules/
+./.DS_Store
+allureReport
+allure-report
+output
+tests/.DS_Store
